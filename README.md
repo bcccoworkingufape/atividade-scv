@@ -6,7 +6,7 @@
     <th>Cidade natal</th>
   </tr>
   <tr>
-    <td>Maria Virginia</td>
+    <td>Maria Virgínia</td>
     <td>Catende</td>
   </tr>
 </table>
